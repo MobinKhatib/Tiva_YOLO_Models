@@ -28,7 +28,7 @@ This repository contains a set of YOLO-based models developed for an end-to-end 
   - Detects vehicles and license plates in a frame.
   - Handles two types of Iranian plates:
     - 🇮🇷 Regular Iranian plates
-    - 🆓 Free Zone (license-free) plates
+    - Free Zone (license-free) plates
 
 - **2. Character Recognizer (`char_recognizer/`)**
   - Detects and recognizes individual characters within a license plate region.
