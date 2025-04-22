@@ -40,7 +40,7 @@ This repository contains a set of YOLO-based models developed for an end-to-end 
 
 ## 🚀 Tech Stack
 
-- YOLOv5 / YOLOv8
+- YOLOv11
 - Python, PyTorch
 - Custom datasets with annotated labels
 - Exported `.pt` model files for deployment
@@ -50,5 +50,5 @@ This repository contains a set of YOLO-based models developed for an end-to-end 
 Each subfolder includes:
 - `train.py`: Model training script
 - `data/`: Sample dataset or annotation format
-- `.pt`: Trained YOLO model weights
+- `.pt`: Trained YOLO model weights.
 
